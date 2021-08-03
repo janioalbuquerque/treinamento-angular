@@ -19,3 +19,8 @@ As telas do projeto são apresentadas nas imagens a seguir:
 
 ![image](https://user-images.githubusercontent.com/65768376/128096719-8b895c4c-2dc1-4bef-97fc-eb293f9797b7.png)
 
+Certificado de conclusão:
+
+![image](https://user-images.githubusercontent.com/65768376/128100939-56625855-6072-425c-9084-eb66e215dcab.png)
+
+
